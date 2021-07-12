@@ -25,7 +25,7 @@ This simplified calculator adds the entire number selected, rather then adds dig
 * [ ] cd into the project base directory `cd web-module-project-reducer-pattern`
 * [ ] Download project dependencies by running `npm install`
 * [ ] Start up the app using `npm start`
-
+ 
 ### Task 2: Project Requirements
 #### Connect The Reducer
 > *Let's start our process by connecting our UI to our reducer and initial state.*
